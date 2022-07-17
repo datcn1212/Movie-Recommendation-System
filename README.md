@@ -1,5 +1,8 @@
 # Movie Recommendation System
 </p>
+
+## Introduction
+</p>
 The rapid growth of data collection has led to a new era of information. Data is being used to create more efficient systems and this is where Recommendation Systems come into play. Recommendation Systems improve the quality of search results and provides items that are more relevant to the search item or are realted to the search history of the user. </p>
 </p>
 There are basically three types of recommender systems: </p>
