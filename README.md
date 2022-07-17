@@ -19,9 +19,16 @@ In this project, we use TMDB 5000 Movie Dataset and The MoviLens Dataset to depl
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata </p>
 https://grouplens.org/datasets/movielens/100k/ </p>
 
+## Library
+</p>
+Install: numpy, pandas, sklearn, nltk, requests, bs4, scipy, matplotlib, seaborn </p>
+
 ## About ipynb
 </p>
-- MRS-base-on-TMDB5000.ipynb : Content-based Filtering on TMDB 5000 Movie Dataset </p>
+- Content_based_TMDB5000.ipynb : Content-based Filtering on TMDB 5000 Movie Dataset </p>
+- Content_based_MovieLens.ipynb: Content-based Filtering on The MovieLens Dataset </p>
+- Neighborhood_Based_Collaborative_Filtering.ipynb: Neighborhood-Based Collaborative Filtering with KNN </p>
+- Matrix_Factorization_Collaborative_Filtering.ipynb: Matrix Factorization Collaborative Filtering with SGD </p>
 
 
 
